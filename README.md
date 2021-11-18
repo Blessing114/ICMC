@@ -10,9 +10,9 @@ Put data to be used into folder *max_clique/clean/*.
 And modify data and batch size in file *GraphMining/main.cpp*, at the same time, choose algorithm to be used.
 ## Compile and compute
 using the following commmand to compile the code with linux:
-    ./run.sh
+`./run.sh`
 when you start to compute, you can run:
-    nohup ./a.out >Graph_self.log 2>&1 &
+`nohup ./a.out >Graph_self.log 2>&1 &`
 ## citation
 If you use this repository in your research, please cite the following paper:
 >todo
