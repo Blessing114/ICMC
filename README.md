@@ -2,7 +2,7 @@
 This is C++ implement (with python code to generate data) of the paper "Incremental Maximal Clique Enumeration for Hybrid Edge Changes with Vertex Scope Constraints", ICDE 2022.
 ## Data generation
 All data are stored into the *DATA/final_file* folder. 
-The real-world networks can be freely accessed online:https://snap.stanford.edu/data/;http://networkrepository.com/index.php. 
+The real-world networks can be freely accessed online:https://snap.stanford.edu/data/ or http://networkrepository.com/index.php. 
 The synthetic graphs are generated using the graph generator tool $NetworkX$ and $GTGraph$.
 Run the jupyter file to generate add_minus/mix/degree related data.
 ## Data preparation
