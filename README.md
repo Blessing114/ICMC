@@ -3,7 +3,7 @@ This is C++ implement (with python code to generate data) of the paper "Incremen
 ## Data generation
 All data are stored into the *DATA/final_file* folder. 
 The real-world networks can be freely accessed online:https://snap.stanford.edu/data/ or http://networkrepository.com/index.php. 
-The synthetic graphs are generated using the graph generator tool $NetworkX$ and $GTGraph$.
+The synthetic graphs are generated using the graph generator tool *NetworkX* and *GTGraph*.
 Run the jupyter file to generate add_minus/mix/degree related data.
 ## Data preparation
 Put data to be used into folder *max_clique/clean/*.
